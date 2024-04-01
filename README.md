@@ -43,21 +43,22 @@ STRIPE_WEBHOOK_SECRET=""
 
 ##Configurando o Drizzle ORM
 
-~~~~npm run db:push
+```npm run db:push```
 
 ##Povoando a aplicação
 
-~~~npm run db:seed
+```npm run db:seed```
 ou
 
-~~~~npm run db:prod
+```npm run db:prod```
 
 
 ##Iniciando a aplicação
 
-~~~~npm run dev
+```npm run dev```
+&nbsp;
 Com essas instruções, você estará pronto para iniciar o clone do Duolingo e mergulhar em uma experiência de aprendizado de idiomas emocionante! 🚀🎨💻
-
+&nbsp;
 ## Como Contribuir:
 
 Se você quiser contribuir para este projeto, fique à vontade para abrir issues, propor melhorias ou enviar pull requests. Este é um projeto em constante evolução e novas ideias são sempre bem-vindas!
